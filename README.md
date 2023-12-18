@@ -1,12 +1,11 @@
-# Numbers every LLM Developer should know
-
-[中文](https://github.com/NascentCore/llm-numbers-cn)
+# LLM 개발자가 알아야할 숫자들
 
 At Google, there was a document put together by [Jeff Dean](https://en.wikipedia.org/wiki/Jeff_Dean), the legendary engineer, called [Numbers every Engineer should know](http://brenocon.com/dean_perf.html). It’s really useful to have a similar set of numbers for LLM developers to know that are useful for back-of-the envelope calculations. Here we share particular numbers we at Anyscale use, why the number is important and how to use it to your advantage. 
 
 ## Notes on the Github version
 
-Last updates: 2023-05-17
+마지막 업데이트: 2023-05-17
+마지막 한글화 진행 : 2023-12-18
 
 If you feel there's an issue with the accuracy of the numbers, please file an issue. Think there are more numbers that should be in this doc? Let us know or file a PR. 
 
